@@ -140,3 +140,20 @@ h4 {
   left: 50px;
 }
 
+.ask {
+  margin: 20px;
+  font-size: 18px;
+  line-height: 1;
+  color: blue;
+  text-align: center;
+}
+
+.joinUs {
+  margin: 20px;
+  font-size: 18px;
+  line-height: 1;
+  color: red;
+  text-align: center;
+
+}
+
