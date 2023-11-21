@@ -1,0 +1,131 @@
+
+body {
+  margin: 0 auto;
+  width: 729px;
+  height: 1032px;
+  border: solid 1px white;
+  position: relative;
+  z-index: 3;
+}
+
+.globe {
+  position: absolute;
+  top: 180px;
+  left: 30px;
+  z-index: 1;
+}
+
+p {
+  font-size: 12px;
+  margin-left: 4px;
+}
+
+.bunnrui {
+  text-align: center;
+  color: rgb(2, 2, 101);
+  font-weight: bold;
+  line-height: 1;
+}
+
+.goal {
+  color: rgb(2, 2, 101);
+  font-weight: bold;
+  line-height: 1;
+}
+
+.namae {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+  line-height: 1;
+}
+
+h1 {
+  margin-left: 250px;
+  font-size: 36px;
+  color: red;
+  line-height: 1;
+}
+
+h3 {
+  margin: 0;
+  font-size: 30px;
+  line-height: 1;
+  color: rgb(128, 249, 84);
+  position: absolute;
+  top: 210px;
+  left: 230px;
+}
+
+
+
+h2 {
+  text-align: center;
+  color: blue;
+}
+
+h4 {
+  margin-top: 8px;
+  margin-bottom: 10px;
+  font-size: 15px;
+  line-height: 1;
+  color: rgb(2, 2, 101);
+}
+
+.top {
+  display: flex;
+}
+
+.top_left, .top_center, .top_right{
+  width: 243px;
+  height: 200px;
+  border: solid gray .5px;
+  padding-left: 4px;
+}
+
+.middle {
+  display: flex;
+}
+
+.middle_left, .middle_center, .middle_right{
+  width: 243px;
+  height: 390px;
+  border: solid gray .5px;
+  padding-left: 4px;
+}
+
+.middle p {
+  font-size: 11px;
+  line-height: 1.8;
+  margin-bottom: 6px;
+}
+
+.bottom {
+  display: flex;
+}
+
+.bottom_left, .bottom_center, .bottom_right{
+  width: 243px;
+  height: 260px;
+  border: solid gray .5px;
+  padding-left: 4px;
+}
+
+.bottom p {
+  font-size: 11px;
+  line-height: 2;
+  margin-bottom: 12px;
+}
+
+.face {
+  position: absolute;
+  bottom: 200px;
+  right: 0px;
+}
+
+.QR {
+  position: absolute;
+  bottom: 270px;
+  left: 50px;
+}
+
